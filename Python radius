@@ -1,0 +1,7 @@
+r=0.5
+Area of circle=2*π*r*r
+Print("Area of a circle:")
+
+
+Output:
+Area of a circle:1.5
